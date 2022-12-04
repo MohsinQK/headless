@@ -1,5 +1,5 @@
 {
-  "name": "friendsoftypo3/headless",
+  "name": "mohsinqk/headless",
   "type": "typo3-cms-extension",
   "description": "This extension provides way to output content from TYPO3 in JSON format.",
   "keywords": [
