@@ -47,6 +47,9 @@
     "typo3/cms-form": "11.*@dev",
     "typo3/testing-framework": "^6"
   },
+  "replace": {
+    "friendsoftypo3/headless": "3.2.2"
+  },
   "conflict": {
     "typo3/cms-core": "<11.5.15"
   },
